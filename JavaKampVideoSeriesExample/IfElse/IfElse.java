@@ -1,5 +1,5 @@
 //Emre Ozdemir
-//20050111020
+
 
 import java.util.Scanner;
 

@@ -1,5 +1,4 @@
 //Emre Özdemir
-//20050111020
 //9.20PM 9/28/2022
 
 import java.util.Scanner;

@@ -1,5 +1,4 @@
 //Emre Özdemir
-//20050111020
 
 import java.util.Scanner;
 
@@ -38,10 +37,10 @@ public class LetterGrade{
 			case 'B':
 			case 'C':
 			case 'D':
-				System.out.println("Passed");
+				System.out.println("Passed your letter grade is " + letterGrade);
 				break;
 			case 'F':
-				System.out.println("Failed");
+				System.out.println("Failed your letter grade is " + letterGrade);
 				break;
 		}
 	}

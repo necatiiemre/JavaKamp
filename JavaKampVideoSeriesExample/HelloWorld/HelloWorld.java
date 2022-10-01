@@ -1,5 +1,4 @@
 //Emre Ozdemir
-//20050111020
 
 public class HelloWorld{
 	public static void main(String[] args){
